@@ -17,6 +17,7 @@
     height: 100vh;
     margin: 0;
     overflow: hidden;
+    /*background-color:#bb99ff; this property does not has any affect*/
   }
   
   .background-buildings, .foreground-buildings {
